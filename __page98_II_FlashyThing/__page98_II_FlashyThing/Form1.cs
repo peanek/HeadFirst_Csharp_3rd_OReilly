@@ -19,7 +19,7 @@ namespace __page98_II_FlashyThing
 
         private void button1_Click(object sender, EventArgs e)
         {
-            while (Visible)
+            while (true)
             {
                 for (int c = 0; c < 254 ; c++)
                 {
